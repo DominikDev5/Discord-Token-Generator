@@ -16,4 +16,3 @@ part3 = random_string(38)
 token = f"{part1}.{part2}.{part3}"
 
 print(token)
-print("Length:", len(token))
