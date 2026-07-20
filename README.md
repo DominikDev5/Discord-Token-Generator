@@ -1,1 +1,3 @@
-# Discord-Token-Generator
+# Discord Token Generator
+
+By DominikDev5
